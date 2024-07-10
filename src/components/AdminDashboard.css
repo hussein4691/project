@@ -1,0 +1,40 @@
+.admin-dashboard {
+    padding: 20px;
+  }
+  
+  .admin-dashboard h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .admin-dashboard table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .admin-dashboard table th, .admin-dashboard table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .admin-dashboard table th {
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  
+  .admin-dashboard table td {
+    text-align: center;
+  }
+  
+  .admin-dashboard button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .admin-dashboard button:hover {
+    background-color: red;
+  }
+  

@@ -1,0 +1,19 @@
+.about-us {
+    background-color: #eacece;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.about-us h3 {
+    margin: 0 0 10px 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.about-us p {
+    color: #666;
+    line-height: 1.6;
+    margin: 10px 0;
+}
