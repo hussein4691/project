@@ -10,7 +10,7 @@ function Dashboard() {
             <Sidebar className="sidebar" />
             <div className="dashboard">
                 <header className="header">
-                    <h2>ONLINE SCHOOL FINDER</h2>
+                    <h2>ONLINE SCHOOL FINDER ZANZIBAR</h2>
                 </header>
                 <div className="main-content">
                     <AboutUs />
