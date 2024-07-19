@@ -1,5 +1,5 @@
 import React from 'react';
-import '../page/Dashboard.css'; // Import your CSS file for styling
+import '../page/Dashboard.css'; 
 import Sidebar from '../components/Sidebar';
 import AboutUs from '../components/AboutUs';
 import ContactUs from '../components/ContactUs';
@@ -10,7 +10,7 @@ function Dashboard() {
             <Sidebar className="sidebar" />
             <div className="dashboard">
                 <header className="header">
-                    <h2>ONLINE SCHOOL FINDER ZANZIBAR</h2>
+                    <h2>ONLINE SCHOOL FINDER</h2>
                 </header>
                 <div className="main-content">
                     <AboutUs />
